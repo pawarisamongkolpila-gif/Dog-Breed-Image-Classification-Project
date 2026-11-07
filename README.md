@@ -1,4 +1,5 @@
-Dog Breed Image Classification 
+Dog Breed Image Classification (สมาชิกจำนวน 4 คน)
+
 โปรเจกต์นี้สอนให้โมเดล Deep Learning ดูรูปสุนัขแล้วบอกว่าเป็นสายพันธุ์อะไรจาก 119 สายพันธุ์ โดยลองเทียบกัน 3 โมเดล(MobileNetV2, InceptionV3, EfficientNetB3) ว่าโมเดลไหนทำนายแม่นยำที่สุด
 
 วัตถุประสงค์
